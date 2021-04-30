@@ -29,10 +29,5 @@ decrease.addEventListener('click', function(){
         value.style.color='black';
     }   
   }
-//  array.forEach(element => {
-     
-//  });
-//  if()
-// console.dir(btn);
 
 

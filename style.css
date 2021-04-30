@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    
+}
+.value{
+    margin-top: 0%;
+}
+body{
+    background-image: linear-gradient(gray,white,black);
+}
+.heading{
+    font-family: "Georgia", "Arial" , "Helvetica";
+    color: lightslategray;    
+}
